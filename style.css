@@ -16,14 +16,14 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: var(--fonte-principal);
 }
- 
+
 body {
     background: var(--cor-fora-do-cartao);
     height: 100vw;
     display: grid;
     place-content: center;
+    font-family: var(--fonte-principal);
     font-weight: 500;
     color: var(--cor-da-fonte-principal);
 }
